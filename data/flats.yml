@@ -1,0 +1,23 @@
+elephantonaleaf:
+  name: "Frank Lloyd Wright's Falling Water Home"
+  description: "A masterpiece that resembles falling water"
+  city_name: "Tokyo, Japan"
+  city_slug: "tokyo"
+  wifi: false
+  rating: 4.5
+
+rkretch91:
+  name: "Ryan's Paris Loft"
+  description: "Floor to seeing windows and two floors in the heart of NYC's TriBeCa"
+  city_name: "Paris, France"
+  city_slug: "paris"
+  wifi: true
+  rating: 4.7
+
+yangnation:
+  name: "Yang's Shanghai Lane House"
+  description: "Third Floor Lane House apartment, European Style"
+  city_name: "Shanghai, China"
+  city_slug: "shanghai"
+  wifi: true
+  rating: 4.3
